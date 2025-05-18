@@ -2,8 +2,9 @@
   "name": "uts-devops-4966",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
+    "run": "node .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

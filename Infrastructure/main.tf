@@ -3,7 +3,7 @@ provider "aws" {
 }
 
 resource "aws_security_group" "allow_ssh_http" {
-  name        = "dhewi_4969"
+  name        = "dhewi_4966"
   description = "Allow SSH and HTTP access"
 
   ingress {
